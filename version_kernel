@@ -1,0 +1,2 @@
+
+  KGEN=$(ls --indicator-style=none ${LIVE_ROOTDIR}/var/log/packages/kernel*generic* |grep -v smp |head -1 |rev | cut -d- -f3 |tr _ - |rev)

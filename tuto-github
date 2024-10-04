@@ -1,0 +1,70 @@
+Quick setup — if you’ve done this kind of thing before
+https://github.com/jav-aragones/slackbuild-hyprland.git
+Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
+
+To create a repository interactively, use gh repo create with no arguments.
+
+…or create a new repository on the command line
+echo "# slackbuild-hyprland" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jav-aragones/slackbuild-hyprland.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/jav-aragones/slackbuild-hyprland.git
+git branch -M main
+git push -u origin main
+
+gh repo create
+
+.... Actualizar repo remoto.
+Luego de copiar los archivos al repo.
+Se ingresa al repo.
+> git status
+Archivo sin sequimiento.
+> git add .
+Luego el commit
+> git commit -m "texto"
+Y se actualiza todo
+> git push origin master
+
+ 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
+
+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
+
+error: RPC falló; HTTP 400 curl 92 HTTP/2 stream 7 was not closed cleanly: CANCEL (err 8)
+
+Solucion:
+git config --global http.postBuffer 524288000
+
+https://gist.github.com/daopk/0a95772d582cafb202142ff7871da2fc
+
+Comandos git.
+
+git add . # Agregar todos los archivos
+git add /path/to/file # Agregar un archivo concreto
+git diff --cached
+git commit -m 'comment'
+git commit --amend -m 'my corrected comment' # Para corregir el mensaje del commit anterior.
+git push -u origin master
+git checkout -b 'robranch' #o (git switch robranch) # Cambiar de branch
+git push origin robranch
+git branch -a # Ver las branchs
+git branch -m # renombrar la branch actual
+git merge # Une otra branch con la branch en la te encuentras
+git merge --squash # Igual que el anterior pero junta todo los commits(es necesario hacer un nuevo git add . y git commit -m "mensaje")
+git fetch --all # Actualizar las branchs
+git rm --cached myarchivo.txt # Elimina el archivo en todo el historial
+git remote update origin --prune # Actualiza las branchs remotas localmente
+git stash # ir al commit anterior pero salvando los datos por si acaso quieres usar luego.
+git stash pop # para regresar al stash previo (al que no se le ha hecho commit).
+git stash push -m "mensaje" # Para hacer stash ("salvar los cambios" sin commit) y agregar un mensaje a dicho stash.
+git stash list # ver la lista de stashs.
+git init
+git config --global user.name "Your Name Comes Here"
+git config --global user.email you@yourdomain.example.com
+git config --list # para saber el nombre e email configurados en git
+git status
