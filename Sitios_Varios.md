@@ -53,74 +53,74 @@ https://github.com/swaywm  # Fuentes de Sway en Github.
  
 ** "name": "wlroots GitLab",
 
-    "url": "https://gitlab.freedesktop.org/wlroots/wlroots"
+    https://gitlab.freedesktop.org/wlroots/wlroots
 
 ** "name": "GitHub doctest",
 
-     "url": "https://github.com/doctest/doctest"
+     https://github.com/doctest/doctest
 
-** "name": "GitHub -glm",
+** "name": "GitHub glm",
 
-     "url": "https://github.com/g-truc/glm"
+     https://github.com/g-truc/glm
 
 ** "name": "fcft Codeberg",
 
-     "url": "https://codeberg.org/dnkl/fcft"
+     https://codeberg.org/dnkl/fcft
 
 ** "name": "foot  Codeberg",
 
-     "url": "https://codeberg.org/dnkl/foot"
+     https://codeberg.org/dnkl/foot
 
 ** "name": "fuzzel  Codeberg",
 
-     "url": "https://codeberg.org/dnkl/fuzzel"
+     https://codeberg.org/dnkl/fuzzel
 
 ** "name": "grim GitHub",
 
-     "url": "https://git.sr.ht/~emersion/grim"
+     https://git.sr.ht/~emersion/grim
 
 ** "name": "GitHub gtk-layer-shell",
 
-     "url": "https://github.com/wmww/gtk-layer-shell"
+     https://github.com/wmww/gtk-layer-shell
 
 **  "name": "GitHub jsoncpp",
 
-     "url": "https://github.com/open-source-parsers/jsoncpp"
+     https://github.com/open-source-parsers/jsoncpp
 
 **  "name": "libdisplay-info · GitLab",
 
-     "url": "https://gitlab.freedesktop.org/emersion/libdisplay-info"
+     https://gitlab.freedesktop.org/emersion/libdisplay-info
 
 **  "name": "libliftoff · GitLab",
 
-     "url": "https://gitlab.freedesktop.org/emersion/libliftoff"
+     https://gitlab.freedesktop.org/emersion/libliftoff
 
 **  "name": "GitHub mako",
 
-     "url": "https://github.com/emersion/mako/tree/master"
+     https://github.com/emersion/mako
 
 **  "name": "seatd sourcehut",
 
-     "url": "https://git.sr.ht/~kennylevinsen/seatd/"
+     https://git.sr.ht/~kennylevinsen/seatd/
 
 **  "name": "shotman sourcehut",
 
-     "url": "https://git.sr.ht/~whynothugo/shotman"
+     https://git.sr.ht/~whynothugo/shotman
 
 ** "name": "GitHub spdlog",
 
-     "url": "https://github.com/gabime/spdlog"
+     https://github.com/gabime/spdlog
 
 ** "name": "tllist Codeberg",
 
-     "url": "https://codeberg.org/dnkl/tllist"
+     https://codeberg.org/dnkl/tllist
 
 ** "name": "GitHub Waybar",
 
-     "url": "https://github.com/Alexays/Waybar"
+     https://github.com/Alexays/Waybar
 
 ** "name": "GitHub wlogout",
 
-     "url": "https://github.com/ArtsyMacaw/wlogout"
+     https://github.com/ArtsyMacaw/wlogout
 
 
