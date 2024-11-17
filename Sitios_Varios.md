@@ -31,7 +31,16 @@ https://github.com/mate-desktop  # GitHub de MATE.
 
 https://github.com/mateslackbuilds/msb  # SlackBuilds de MATE. (msb)
 
-  
+https://github.com/mltframework/shotcut
+# Utilidades varias.
+
+
+https://appimages.libreitalia.org/ # AppImages de LibreOffice.
+
+https://github.com/mltframework/shotcut  # Código fuente de ShotCut.
+
+
+
 # Hyprland
 
 
